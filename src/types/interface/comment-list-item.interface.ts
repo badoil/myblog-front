@@ -1,4 +1,4 @@
-export default interface CommentListItem {
+export default interface CommentListItemInterface {
     nickname: String,
     profileImage: String | null,
     content: String,
